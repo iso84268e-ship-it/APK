@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Tab Cleaner</string>
+    <string name="tab_subtitle">مُحسّن ومراقب النظام المخصص لجهاز Galaxy Tab A9</string>
+
+    <!-- Navigation Tabs -->
+    <string name="nav_ram">مراقب الرام</string>
+    <string name="nav_files">الملفات المعلقة</string>
+    <string name="nav_privacy">سجل الخصوصية</string>
+
+    <!-- RAM Monitor -->
+    <string name="ram_title">مراقبة الذاكرة العشوائية (RAM)</string>
+    <string name="ram_clean_button">تنظيف الرام</string>
+    <string name="ram_cleaning">جاري تحرير الذاكرة المؤقتة وإيقاف المهام الخاملة…</string>
+    <string name="ram_total">إجمالي الرام</string>
+    <string name="ram_used">الرام المستخدم</string>
+    <string name="ram_available">الرام المتاح</string>
+    <string name="ram_percent">نسبة الاستهلاك</string>
+    <string name="ram_status_optimal">الحالة: ممتازة (ضغط منخفض)</string>
+    <string name="ram_status_warning">الحالة: معتدلة (ضغط متوسط)</string>
+    <string name="ram_status_critical">الحالة: مرتفعة (ضغط عالي على الذاكرة)</string>
+    <string name="ram_notice_title">ملاحظة أمان النظام</string>
+    <string name="ram_notice_desc">تتم عملية تحسين الرام عبر إخلاء الذاكرة المؤقتة وإغلاق العمليات الخلفية غير النشطة عبر واجهات برمجة تطبيقات أندرويد الرسمية. نظام أندرويد يحتفظ بالذاكرة الأساسية المخصصة لتشغيل الواجهة لضمان سرعة الاستجابة.</string>
+    <string name="ram_freed_msg">تم تحرير %1$s بنجاح من الذاكرة المؤقتة</string>
+
+    <!-- Files Scanner -->
+    <string name="files_title">الملفات المعلقة وغير المصنفة</string>
+    <string name="files_subtitle">كشف الملفات المهملة بدون امتداد، والمخلفات المؤقتة (.tmp, .log, .cache, .part)</string>
+    <string name="files_scan_button">إعادة مسح التخزين</string>
+    <string name="files_scanning">جاري فحص وحدات التخزين المتاحة…</string>
+    <string name="files_total_size">الحجم الإجمالي:</string>
+    <string name="files_count">العدد:</string>
+    <string name="files_select_all">تحديد الكل</string>
+    <string name="files_deselect_all">إلغاء التحديد</string>
+    <string name="files_delete_selected">حذف الملفات المحددة (%1$d)</string>
+    <string name="files_empty_title">لا توجد ملفات معلقة</string>
+    <string name="files_empty_desc">وحدة التخزين نظيفة ولا تحتوي على ملفات غير مصنفة أو بقايا مؤقتة حالياً.</string>
+    <string name="files_confirm_delete_title">تأكيد حذف الملفات</string>
+    <string name="files_confirm_delete_msg">هل أنت متأكد من رغبتك في حذف %1$d من الملفات المحددة بإجمالي حجم %2$s؟ لا يمكن استرجاع الملفات بعد الحذف.</string>
+    <string name="files_confirm_action">نعم، احذف نهائياً</string>
+    <string name="files_cancel_action">إلغاء</string>
+    <string name="files_no_ext">بدون امتداد معروف</string>
+    <string name="files_permission_title">مطلوب صلاحية الوصول للملفات</string>
+    <string name="files_permission_desc">يتطلب فحص الملفات غير المصنفة في ذاكرة الجهاز صلاحية الوصول إلى ملفات التخزين. اضغط للمنح.</string>
+    <string name="files_permission_grant">منح الصلاحية</string>
+
+    <!-- Privacy Monitor -->
+    <string name="privacy_title">مراقبة الكاميرا والميكروفون</string>
+    <string name="privacy_subtitle">رصد التطبيقات المصرح لها والوصول الحقيقي للخصوصية</string>
+    <string name="privacy_camera_section">تطبيقات تمتلك إذن الكاميرا</string>
+    <string name="privacy_mic_section">تطبيقات تمتلك إذن الميكروفون</string>
+    <string name="privacy_active_now">قيد الاستخدام حالياً (مؤشر نشط)</string>
+    <string name="privacy_dashboard_btn">فتح لوحة تحكم الخصوصية (Privacy Dashboard)</string>
+    <string name="privacy_security_notice_title">سياسة أمان أندرويد وسامسونج</string>
+    <string name="privacy_security_notice_desc">بداية من إصدارات أندرويد الحديثة (Android 12 حتى 16)، يمنع النظام تطبيقات الطرف الثالث من استخراج السجلات الزمنية الدقيقة لوصول التطبيقات الأخرى لحماية خصوصية المستخدم من التجسس المتبادل. يمكنك دائماً مراجعة السجل الزمني الكامل (آخر 24 ساعة) عبر لوحة خصوصية سامسونج الرسمية المدمجة في الجهاز.</string>
+</resources>

@@ -2,5 +2,7 @@
   "name": "Tab Cleaner",
   "description": "تطبيق تنظيف وتحسين الذاكرة والملفات ومراقبة الخصوصية المخصص لأجهزة سامسونج جالكسي تاب Tab Cleaner",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
